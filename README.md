@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hashir 👋</h1>
+<h1 align="center">Hi there, I'M MOHAMMED HASHIR 👋</h1>
 <h3 align="center">DevOps Engineer | CI/CD, Docker & Automation Enthusiast</h3>
 
 <p align="center">
