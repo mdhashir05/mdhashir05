@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/mdhashir05.png" width="150" style="border-radius: 50%;" alt="mdhashir05 avatar" />
-</p>
 
 <h1 align="center">Hi there, I'M MOHAMMED HASHIR 👋</h1>
 <h3 align="center">DevOps Engineer | CI/CD, Docker & Automation Enthusiast</h3>
